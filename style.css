@@ -1,0 +1,26 @@
+body{
+	font-family:sans-serif;
+	font-size:30px;
+	 
+}
+.border{
+	background-color:#D8FFE2;
+	border-right:5px blue solid;
+	border-left:5px blue solid; 
+	border-top:5px blue solid; 
+	border-bottom:5px blue solid; 
+	border-width:3px;
+	border-bottom-width:3px;
+
+
+	border-style:dotted;
+}
+div{
+	margin:10px 30px 20px 8px;
+	width:40%
+}
+h1{
+color:red;
+margin:0;
+
+}
