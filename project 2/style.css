@@ -1,0 +1,77 @@
+@media (min-width: 600px){
+
+}
+
+@font-face{
+src: url(fonts/CutiveMono-Regular.ttf);
+font-family:cut; 
+}
+
+body{
+background-image:url("img/space.jpg");
+font-family:cut; 
+background-color:#FBFBFB;
+width:50%; 
+font-size: 20;
+
+}
+ * {
+ 	box-sizing:border-box;
+ }
+ .paper_image{ 
+  background-image: url("img/space.jpg");
+  height: 1000px;
+  background-position: center;
+  background-repeat: ;
+  background-size: 100%;
+  position: relative;
+}
+
+ .container{
+margin:0;
+flex-direction: flex start:
+
+ 
+ }
+ .rep{
+ 	padding:20px 20px 20px 20px; 
+ 	margin: 10px 500px 10px 500px;
+ 	letter-spacing: 0.3em;
+ 	background-color:#e1ffff;
+ 	color:#EE3333;
+ 	border: 1px #FDDC7A solid;
+ 	border-style:double;
+ 	position:static;
+ 	text-align: center;
+ 	float:center; 
+ }
+
+ .tar{
+ 	padding:20px 20px 20px 20px;
+ 	margin:0px 500px 0px 500px;
+ 	letter-spacing: 0.3em;
+ 	background-color:#F9FFE4;
+ 	color:#7CCA5C; 
+ 	border:1px #FFC1B4 solid;
+ 	border-style:double;
+ 	position:static;
+ 	text-align:right;
+ 	float:center; 
+ }
+.awe{
+	padding:20px 20px 20px 20px;
+ 	margin:10px 500px 10px 500px ;
+ 	letter-spacing: 0.3em;
+ 	background-color:#FFCA89;
+ 	color:white; 
+ 	border:1px #A0C3DF solid;
+ 	border-style:double;
+ 	float:center;
+ 	position:static
+}
+	
+	
+ @media(max-width:600px){
+ 	#main{width:100%;
+
+ }
